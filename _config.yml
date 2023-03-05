@@ -1,25 +1,16 @@
-####################################################
-#
-# Welcome to Redron Jekyll Template
-#
-# Product Link : https://themeix.com/product/redron-jekyll-template/
-# Version : v1.0.0
-#
-####################################################
-
 # Site settings
-title: "Redron - Jekyll Premium Theme"
-email: "themeix@gmail.com"
+title: "ChatRep - Revolutionizing Customer Support with AI"
+email: "support@chatrep.ai"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: " " # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://chatrep.ai" # the base hostname & protocol for your site, e.g. http://example.com
 logo: /assets/img/logo/logo.png
-description: "Redron is a responsive Jekyll template for your business website"
-keywords: "jekyll, minimal jekyll, jekyll theme, responsive jekyll, seo friendly blog, super fast blog, responsive"
-mailclimp: 'https://themeix.us16.list-manage.com/subscribe/post?u=307862c135e4548eecf86f389&amp;id=4784863884'
-facebook: https://facebook.com/themeix
-instagram: https://instagram.com/themeix
-twitter: https://twitter.com/themeix_com
-pinterest: https://pinterest.com/themeix
+description: "ChatRep, Inc. is a leading provider of AI-powered customer support solutions. Its innovative products and solutions help call centers improve their operations and provide better customer service."
+keywords: "chatrep, customer, service, artificial, intelligence, ai, support, solutions, call, center"
+mailclimp: ""
+facebook: ""
+instagram: ""
+twitter: https://twitter.com/chatrepinc
+pinterest: ""
 
 
 # Build settings
